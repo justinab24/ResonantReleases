@@ -4,11 +4,11 @@
         <title>Resonant</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 07 Jul 2025 21:08:32 -0400</pubDate>
+            <pubDate>Mon, 07 Jul 2025 21:56:07 -0400</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/justinab24/ResonantReleases/releases/download/Release-2025.07.07/Resonant.dmg" length="7134742" type="application/octet-stream" sparkle:edSignature="ihR6mQ8k5cIp75mco/dhGGcX1zoWzUJFMMX/zRIYMUAlQ2Kr4wdo79dfGfNWtgD4qU2UTOGC+pgsuVHizKWFCg=="/>
+            <enclosure url="https://github.com/justinab24/ResonantReleases/releases/tag/Release-2025.07.07#:~:text=3-,Resonant.dmg,-sha256%3Aa6607c7b5cf70440ff225b1ac8462a9a9499384cdf390e792f72dd840385dc57" length="7134879" type="application/octet-stream" sparkle:edSignature="qmJzh7habFsUl8w+w6MCpYqtUauABYrqd5Mk8YMmG0SoTGx0uSc8zZkANe1f2peHos7lrzntcnQfUn+Byv4oDg=="/>
         </item>
     </channel>
 </rss>
