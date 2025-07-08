@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/justinab24/ResonantReleases/releases/download/Release-2025.07.07.v1.1/Resonant.dmg" length="7134487" type="application/octet-stream" sparkle:edSignature="n5qXhrNkfqLzGKTuYHGXJPemlzLAlvn4qeN1emmb6FLRc7W2M9NnJL5be4DM2CF6pxBCpASGkVBvXlGLODS4BA=="/>
+            <enclosure url="https://github.com/justinab24/ResonantReleases/releases/download/Release-2025.07.07/Resonant.dmg" length="7134487" type="application/octet-stream" sparkle:edSignature="n5qXhrNkfqLzGKTuYHGXJPemlzLAlvn4qeN1emmb6FLRc7W2M9NnJL5be4DM2CF6pxBCpASGkVBvXlGLODS4BA=="/>
         </item>
     </channel>
 </rss>
